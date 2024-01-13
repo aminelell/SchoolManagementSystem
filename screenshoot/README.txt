@@ -1,0 +1,5 @@
+ADMIN LOGIN : admin
+ADMIN PASS: admin
+
+STUDENT LOGIN: ho
+STUDENT PASS: ho
